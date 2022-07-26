@@ -1,0 +1,19 @@
+integer currValue
+integer valuesSum
+integer numValues
+float averageValue
+
+valuesSum = 0
+numValues = 0
+
+currValue = Get next input
+
+// Get values until 0 (or less)
+while currValue > 0
+   valuesSum = valuesSum + currValue
+   numValues = numValues + 1
+   currValue = Get next input
+
+averageValue = (1.0 * valuesSum ) / numValues
+Put "Average: " to output
+Put averageValue to output

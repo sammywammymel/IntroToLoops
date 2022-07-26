@@ -1,0 +1,9 @@
+Loops - a program that executes the loops code
+
+Iteration - each time through a loop
+
+Loop Body - the code inside the loop
+
+Terminating Condition - something that starts the code
+
+Infinite loop - a loop that never stops iterating 
